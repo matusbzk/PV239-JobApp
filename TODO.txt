@@ -1,0 +1,7 @@
+1. Upraviť, aby v detailoch (JobOfferDetail, InterviewDetail, ContactDetail) riadky (Grid.Row) 
+    zaberali rovnako miesta bez ohľadu na to, či je vpravo entry alebo label.
+1a. (Dosť možno súvisí s 1.) Na androide je v entry omnoho väčší text ako v labeli - nech sú rovnaké.
+2. Ukladanie dát - urobiť po vzore posledného cvičenia (je v študijných materiáloch).
+3. Natívne veci:
+    a) V listoch (JobOfferList, InterviewList) zrušiť spodné tlačítko na pridávanie a pridať natívne.
+    b) Pridať nejaké platform dependent options? (Viď navrh.docx)
